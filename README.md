@@ -1,9 +1,13 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br/>
 install dependencies
+<br/>
 <code> yarn </code>
+<br/>
 run on local host 5173
+<br/>
 
 <code> yarn run dev</code>
 
